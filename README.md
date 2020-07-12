@@ -7,11 +7,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## writepro4 : frontend developer
+## 🌱 writepro4 : frontend developer
 
 현재 프론트엔드로 일하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
-## Stack
+## 💻 Stack
 
 - React.js
 - Android-Studio
@@ -19,7 +19,7 @@
 - Java
 - Css
 
-## 운영중인 블로그 => (코딩에 대한 팁, 기술을 기재하고 있습니다.) 
+## 👻 운영중인 기술 블로그
 
 <a href="https://gaebal4.tistory.com/">
     <img 
