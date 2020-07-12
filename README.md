@@ -7,9 +7,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
+## writepro4 : frontend developer
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+현재 프론트엔드로 일하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
 ## Stack
 
@@ -17,7 +17,9 @@
 - Android-Studio
 - Php
 - Java
+- Css
 
+## 운영중인 블로그 => (코딩에 대한 팁, 기술을 기재하고 있습니다.) 
 
 <a href="https://gaebal4.tistory.com/">
     <img 
