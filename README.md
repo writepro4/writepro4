@@ -12,7 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## 🌱 writepro4 : frontend developer
+## 🌱 writepro4 : 프론트엔드 개발자
 
 ![sdfa](https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif)
 
@@ -33,3 +33,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+## 🎉 서비스중인 상품
+
+- [ ] WakaRank 
