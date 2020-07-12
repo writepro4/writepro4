@@ -1,17 +1,11 @@
-<div>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets8.lottiefiles.com/private_files/lf30_WdTEui.json"  background="transparent"  speed="1"  style="width: 100px; height: 100px;"  loop  autoplay></lottie-player>
-</div>
+
+![gimori (1)](https://user-images.githubusercontent.com/45548926/87240907-a0133180-c458-11ea-814e-a69ea385329b.gif)
 
 <div style="position:absolute; top: calc(50vh - 112.5px); left: calc(50vw - 150px);">
 	    <lottie-player src="./img/paper-airplane.json" background="transparent" style="width: 300px; height: 225px;" speed="1" loop autoplay>
 	    </lottie-player>
 	</div>
-    
-    
-
-
-
+   
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwritepro4"
