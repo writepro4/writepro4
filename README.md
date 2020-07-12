@@ -14,7 +14,7 @@
 
 ## 🌱 writepro4 : frontend developer
 
-![gimori (1)](https://user-images.githubusercontent.com/45548926/87240907-a0133180-c458-11ea-814e-a69ea385329b.gif =250x250)
+![sdfa](https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif)
 
 현재 프론트엔드로 일하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
