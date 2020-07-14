@@ -14,7 +14,7 @@
 
 ## 🌱 writepro4 : 프론트엔드 개발자
 
-<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="200" height="100" />
+<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" />
 
 현재 프론트엔드로 일하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
