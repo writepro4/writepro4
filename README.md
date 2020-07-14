@@ -29,11 +29,8 @@
 ## 👻 운영중인 기술 블로그
 
 <a href="https://gaebal4.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
 </a>
-
 
 ## 🎉 서비스중인 상품
 
