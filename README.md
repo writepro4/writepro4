@@ -25,6 +25,8 @@
 - Php
 - Java
 - Css
+- Laravel
+- JavaScript
 
 ## 👻 운영중인 기술 블로그
 
