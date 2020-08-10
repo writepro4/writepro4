@@ -7,7 +7,7 @@
 
 ## 💻 Stack
 
-  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-.png"/> 
+  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-language.png"/>
 - Android-Studio
 - Php
 - Java
