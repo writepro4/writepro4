@@ -1,13 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/-/4.7.0/css/-.min.css">
-
-<div>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.?url=https%3A%2F%2Fgithub.com%2Fwritepro4"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=writepro4%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
 
 ## 🌱 writepro4 : 프론트엔드 개발자
 
@@ -17,7 +7,7 @@
 
 ## 💻 Stack
 
-- <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-language.png"/> React.js
+  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-.png"/> 
 - Android-Studio
 - Php
 - Java
