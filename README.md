@@ -5,9 +5,9 @@
 
 현재 프론트엔드로 일하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
-## 💻 Stack
+## 💻 Stack 
 
-  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-language.png"/>
+  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-.png"/>
 - Android-Studio
 - Php
 - Java
