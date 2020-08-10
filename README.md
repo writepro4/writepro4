@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div>
     <img 
@@ -16,7 +17,7 @@
 
 ## 💻 Stack
 
-- React.js
+- <i class="fab fa-accessible-icon"></i> React.js
 - Android-Studio
 - Php
 - Java
