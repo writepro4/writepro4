@@ -1,8 +1,4 @@
-**👨‍👨‍👧‍👧방문자 수 / 👏팔로워 수** <div style="position:absolute; top: calc(50vh - 112.5px); left: calc(50vw - 150px);">
-	    <lottie-player src="./img/paper-airplane.json" background="transparent" style="width: 300px; height: 225px;" speed="1" loop autoplay>
-	    </lottie-player>
-	</div>
-   
+
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwritepro4"
@@ -42,49 +38,5 @@
 - [ ] TodoList - 개발자를 위한 TodoList 사이트
 
 
-<h2 align="center">Core Team</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/sokra.png?s=150">
-        <br>
-        <a href="https://github.com/sokra">Tobias Koppers</a>
-        <p>Core</p>
-        <br>
-        <p>Founder of webpack</p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/jhnns.png?s=150">
-        <br>
-        <a href="https://github.com/jhnns">Johannes Ewald</a>
-        <p>Loaders &amp; Plugins</p>
-        <br>
-        <p>Early adopter of webpack</p>
-      </td>
-      <td align="center" width="20%" valign="top">
-        <img width="150" height="150" src="https://github.com/TheLarkInn.png?s=150">
-        <br>
-        <a href="https://github.com/TheLarkInn">Sean T. Larkin</a>
-        <p>Public Relations</p>
-        <br>
-        <p>Founder of the core team</p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/spacek33z.png?s=150">
-        <br>
-        <a href="https://github.com/spacek33z">Kees Kluskens</a>
-        <p>Development</p>
-        <br>
-        <p>Sponsor</p>
-        <a href="https://codeyellow.nl/">
-          <img height="15px" src="https://cloud.githubusercontent.com/assets/1365881/20286583/ad62eb04-aac7-11e6-9c14-a0fef35b9b56.png">
-        </a>
-		<br>
-      </td>
-     </tr>
-  </tbody>
-</table>
 
 
