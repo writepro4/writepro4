@@ -4,9 +4,10 @@
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" />
 
 웹 프론트/백을 개발하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
-</br>UX/UI에 관심이 많고 무엇보다 중요하다 생각합니다.
 
 ## 💻 Stack 
+
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo-1.png"/>
 
  
 
