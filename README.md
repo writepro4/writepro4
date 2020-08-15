@@ -1,9 +1,9 @@
-##  writepro4 : 웹 UI/UX 프론트  
+##  writepro4 : 웹 UI/UX 프론트 개발자
 
  
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" /> 
 
-웹 개발자, 취미로 개발자를 위한 서비스를 개발합니다. 
+웹 프론트 개발자, 취미로 개발자를 위한 서비스를 개발합니다. UI/UX를 개선시키는것에 관심이 많습니다.
 
 ##  Stack : 기술 목록
 
