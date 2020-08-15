@@ -1,5 +1,4 @@
-
- <header> <img src="https://img.icons8.com/nolan/50/web-design.png"/>  writepro4 : 웹 프론트 개발자 </header>
+<div> <img src="https://img.icons8.com/nolan/50/web-design.png"/>  writepro4 : 웹 프론트 개발자 <div/>
  
  ---
 
@@ -13,7 +12,7 @@
 
 <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/>  Javascript
 
-<img src="https://img.icons8.com/dusk/100/000000/css3.png"/>  Css
+<img src="https://img.icons8.com/dusk/100/000000/3.png"/>  
 
 <img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> Html
 
