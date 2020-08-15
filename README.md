@@ -21,7 +21,7 @@
 
 | Php | Java | MySql | Linux | Node | Apache |
 | ------ | ----------- | ------ | ----- | ---- | ---- |
-| <img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/100/mysql.png"/> | <img src="https://img.icons8.com/dusk/100/000000/linux.png"/> | <img src="https://img.icons8.com/color/100/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/100/000000/server.png"/> |
+| <img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/70/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/70/mysql.png"/> | <img src="https://img.icons8.com/dusk/70/000000/linux.png"/> | <img src="https://img.icons8.com/color/70/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/70/000000/server.png"/> |
 
 <br><br>
 
@@ -29,7 +29,7 @@
 
 | Android | React | Bootstrap |
 | ------ | -------- | ------ |
-| <img src="https://img.icons8.com/clouds/100/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/100/000000/react.png"/> | <img src="https://img.icons8.com/color/100/000000/bootstrap.png"/> |
+| <img src="https://img.icons8.com/clouds/70/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/70/000000/react.png"/> | <img src="https://img.icons8.com/color/70/000000/bootstrap.png"/> |
 
 
 
