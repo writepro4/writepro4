@@ -7,20 +7,22 @@
 
 ## 👨‍💻 Stack : 기술 목록
 
-> 프론트 언어
+> Front
 
-| JavaScript | Css | Html |
-| ------ | ----------- | ----- |
-| <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/3.png"/> | <img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> |
+| JavaScript | Css | Html | Jquery | UI/UX |
+| ------ | ----------- | ----- | ----- | ------ |
+| <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/3.png"/> | <img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
 
 
-> 백앤드 언어
+> BackEnd / Server / DataBase
 
-| Php | Java |
-| ------ | ----------- | 
-| <img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/java-coffee-cup-logo.png"/> | 
+| Php | Java | MySql | Linux | Node | Apache |
+| ------ | ----------- | ------ | ----- | ---- | ---- |
+| <img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/100/mysql.png"/> | <img src="https://img.icons8.com/dusk/100/000000/linux.png"/> | <img src="https://img.icons8.com/color/100/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/100/000000/server.png"/> |
 
-> 프레임워크
+
+
+> FrameWork / Library
 
 | Android | React |
 | ------ | -------- |
