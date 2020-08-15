@@ -13,7 +13,7 @@
 
 | JavaScript | Css | Html | Jquery | UI/UX |
 | ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/nolan/70/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
+| <img src="https://img.icons8.com/nolan/70/js.png"/> | <img src="https://img.icons8.com/nolan/70/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/70/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
 
 <br><br>
 
@@ -21,7 +21,7 @@
 
 | Php | Java | MySql | Linux | Node | Apache |
 | ------ | ----------- | ------ | ----- | ---- | ---- |
-| <img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/70/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/70/mysql.png"/> | <img src="https://img.icons8.com/dusk/70/000000/linux.png"/> | <img src="https://img.icons8.com/color/70/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/70/000000/server.png"/> |
+| <img src="https://img.icons8.com/dusk/70/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/70/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/70/mysql.png"/> | <img src="https://img.icons8.com/dusk/70/000000/linux.png"/> | <img src="https://img.icons8.com/color/70/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/70/000000/server.png"/> |
 
 <br><br>
 
