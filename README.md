@@ -10,23 +10,23 @@
 
 > Front
 
-| JavaScript | Css | Html | Jquery | UI/UX |
+| JS | Css | Html | Jquery | UI/UX |
 | ---------- | --- | ---- | ------ | ----- |
-| <img src="https://img.icons8.com/color/60/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/70/000000/css3.png"/> | <img src="https://img.icons8.com/color/70/000000/html-5.png"/> |  <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
+| <img src="https://img.icons8.com/color/50/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/50/000000/css3.png"/> | <img src="https://img.icons8.com/color/50/000000/html-5.png"/> |  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/50/web-design.png"/> |
 
 
 > BackEnd / Server / DataBase
 
 | Php | Java | MySql | Linux | Node | Apache |
 | ------ | ----------- | ------ | ----- | ---- | ---- |
-| <img src="https://img.icons8.com/dusk/70/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/70/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/70/mysql.png"/> | <img src="https://img.icons8.com/dusk/70/000000/linux.png"/> | <img src="https://img.icons8.com/color/70/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/70/000000/server.png"/> |
+| <img src="https://img.icons8.com/dusk/50/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/50/mysql.png"/> | <img src="https://img.icons8.com/dusk/50/000000/linux.png"/> | <img src="https://img.icons8.com/color/50/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/50/000000/server.png"/> |
 
 
 > FrameWork / Library
 
 | Android | React | Bootstrap |
 | ------ | -------- | ------ |
-| <img src="https://img.icons8.com/clouds/70/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/70/000000/react.png"/> | <img src="https://img.icons8.com/color/70/000000/bootstrap.png"/> |
+| <img src="https://img.icons8.com/clouds/50/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> | <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/> |
 
 
 
