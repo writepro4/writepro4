@@ -11,9 +11,9 @@
 
 > Front
 
-| JavaScript |  | Html | Jquery | UI/UX |
+| JavaScript | Css | Html | Jquery | UI/UX |
 | ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/nolan/70/js.png"/> | <img src="https://img.icons8.com/nolan/70/-filetype.png"/> | <img src="https://img.icons8.com/nolan/70/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
+| <img src="https://img.icons8.com/color/70/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/70/000000/css3.png"/> | <img src="https://img.icons8.com/color/70/000000/html-5.png"/> | <img src="https://img.icons8.com/nolan/70/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
 
 <br>
 
