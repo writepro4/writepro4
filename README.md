@@ -7,7 +7,13 @@
 
 ## 💻 Stack 
 
-<img src="https://img.icons8.com/dusk/64/000000/javascript-logo-1.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo-1.png"/>  Javascript
+
+<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>  Css
+
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> Html
+
+
 
  
 
