@@ -7,13 +7,8 @@
 
 ## 💻 Stack 
 
-  <img src="https://img.icons8.com/clouds/100/000000/ruby-programming-.png"/>
-- Android-Studio
-- Php
-- Java
-- Css
-- Laravel
-- JavaScript
+ 
+
 
 ## 👻 운영중인 기술 블로그
 
