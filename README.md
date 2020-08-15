@@ -5,7 +5,7 @@
 
 웹 프론트/백을 개발하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
-## 💻 Stack 
+## 💻 Stack : 
 
 <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/>  Javascript
 
