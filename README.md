@@ -11,7 +11,7 @@
 
 | JavaScript | Css | Html | Jquery | UI/UX |
 | ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/3.png"/> | <img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
+| <img src="https://img.icons8.com/nolan/100/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
 
 
 > BackEnd / Server / DataBase
@@ -24,9 +24,9 @@
 
 > FrameWork / Library
 
-| Android | React |
-| ------ | -------- |
-| <img src="https://img.icons8.com/clouds/100/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/100/000000/react.png"/> |
+| Android | React | Bootstrap |
+| ------ | -------- | ------ |
+| <img src="https://img.icons8.com/clouds/100/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/100/000000/react.png"/> | <img src="https://img.icons8.com/color/100/000000/bootstrap.png"/> |
 
  
 
