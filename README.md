@@ -1,11 +1,11 @@
 
-## <img src="https://img.icons8.com/nolan/40/30/web-design.png"/>  `writepro4 : 웹 프론트 개발자`
+## <img src="https://img.icons8.com/nolan/50/web-design.png"/>  writepro4 : 웹 프론트 개발자
 
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" /> 
 
 웹 프론트/백을 개발하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
 
-## 💻 Stack : 기술 목록
+## <img src="https://img.icons8.com/bubbles/50/000000/development-skill.png"/> Stack : 기술 목록
 
 <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/>  Javascript
 
