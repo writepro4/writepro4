@@ -1,21 +1,19 @@
 ##  writepro4 : 웹 UI/UX 프론트 개발자
 
  
-<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" /> 
+<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="170" height="100" /> 
 
 웹 프론트 개발자, 취미로 개발자를 위한 서비스를 개발합니다. UI/UX를 개선시키는것에 관심이 많습니다.
 
 ##  Stack : 기술 목록
 
-<br>
 
 > Front
 
 | JavaScript | Css | Html | Jquery | UI/UX |
-| ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/color/70/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/70/000000/css3.png"/> | <img src="https://img.icons8.com/color/70/000000/html-5.png"/> |  <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
+| ---------- | --- | ---- | ------ | ----- |
+| <img src="https://img.icons8.com/color/60/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/70/000000/css3.png"/> | <img src="https://img.icons8.com/color/70/000000/html-5.png"/> |  <img src="https://img.icons8.com/ios-filled/70/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/70/web-design.png"/> |
 
-<br>
 
 > BackEnd / Server / DataBase
 
@@ -23,7 +21,6 @@
 | ------ | ----------- | ------ | ----- | ---- | ---- |
 | <img src="https://img.icons8.com/dusk/70/000000/php-logo.png"/> | <img src="https://img.icons8.com/dusk/70/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/nolan/70/mysql.png"/> | <img src="https://img.icons8.com/dusk/70/000000/linux.png"/> | <img src="https://img.icons8.com/color/70/000000/nodejs.png"/> | <img src="https://img.icons8.com/clouds/70/000000/server.png"/> |
 
-<br>
 
 > FrameWork / Library
 
