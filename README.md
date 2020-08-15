@@ -1,4 +1,4 @@
-<div> <img src="https://img.icons8.com/nolan/50/web-design.png"/>  writepro4 : 웹 프론트 개발자 <div/>
+<div> <img src="https://img.icons8.com/nolan/50/web-design.png"/>  writepro4 : 웹 프론트 개발자 </div>
  
  ---
 
