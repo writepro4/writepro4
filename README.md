@@ -1,9 +1,9 @@
-##  writepro4 : 웹 프론트 개발자 
+##  writepro4 : 웹 프론트  
 
  
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" /> 
 
-웹 프론트/백을 개발하고 있고, 취미로 개발자를 위한 서비스들을 개발하고 있습니다.
+웹 프론트/백을 개발하고 있고, 취미로 를 위한 서비스들을 개발하고 있습니다.
 
 ##  Stack : 기술 목록
 
@@ -13,7 +13,7 @@
 
 | JavaScript | Css | Html | Jquery | UI/UX |
 | ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/nolan/100/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
+| <img src="https://img.icons8.com/nolan/50/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
 
 <br><br>
 
@@ -44,7 +44,7 @@
 
 - [ ] wakarank - wakatime을 이용한 ranking 사이트 
 - [ ] 코딩 꿀팁 - 코딩에 관한 팁을 기재한 블로그 사이트
-- [ ] TodoList - 개발자를 위한 TodoList 사이트
+- [ ] TodoList - 를 위한 TodoList 사이트
 
 
 
