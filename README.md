@@ -1,5 +1,5 @@
 
-<header><img src="https://img.icons8.com/nolan/50/web-design.png"/>writepro4 : 웹 프론트 개발자 </header>
+## <img src="https://img.icons8.com/nolan/50/web-design.png"/> <div style="text-align: center"> writepro4 : 웹 프론트 개발자 </div>
 
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" /> 
 
