@@ -24,9 +24,9 @@
 
 > FrameWork / Library
 
-| Android | React | Bootstrap |
-| ------ | -------- | ------ |
-| <img src="https://img.icons8.com/clouds/50/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> | <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/> |
+| App | React | 
+| ------ | -------- | 
+| <img src="https://img.icons8.com/clouds/50/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> | 
 
 
 
