@@ -13,7 +13,7 @@
 
 | JavaScript | Css | Html | Jquery | UI/UX |
 | ------ | ----------- | ----- | ----- | ------ |
-| <img src="https://img.icons8.com/nolan/50/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
+| <img src="https://img.icons8.com/nolan/70/50/js.png"/> | <img src="https://img.icons8.com/nolan/100/css-filetype.png"/> | <img src="https://img.icons8.com/nolan/100/html-5.png"/> | <img src="https://img.icons8.com/ios-filled/100/000000/jquery.png"/> | <img src="https://img.icons8.com/nolan/100/web-design.png"/> |
 
 <br><br>
 
