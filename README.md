@@ -7,15 +7,17 @@
 
 ## 💻 Stack 
 
-<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>  Javascript
+<img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/>  Javascript
 
-<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>  Css
+<img src="https://img.icons8.com/dusk/100/000000/css3.png"/>  Css
 
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> Html
+<img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> Html
 
+<img src="https://img.icons8.com/dusk/100/000000/php-logo.png"/> Php
 
+<img src="https://img.icons8.com/clouds/100/000000/android-os.png"/> Android / Java
 
- 
+<img src="https://img.icons8.com/clouds/100/000000/react.png"/> React
 
 
 ## 👻 운영중인 기술 블로그
