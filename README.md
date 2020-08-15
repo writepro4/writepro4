@@ -7,11 +7,14 @@
 
 ## 👨‍💻 Stack : 기술 목록
 
+> 프론트 언어
+
 | JavaScript | Css | Html |
 | ------ | ----------- | ----- |
 | <img src="https://img.icons8.com/dusk/100/000000/javascript-logo.png"/> | <img src="https://img.icons8.com/dusk/100/000000/3.png"/> | <img src="https://img.icons8.com/dusk/100/000000/html-5.png"/> |
 
----
+
+> 백앤드 언어
 
 | Php | Java |
 | ------ | ----------- | 
