@@ -1,7 +1,6 @@
  
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="170" height="100" /> 
 
-프론트 개발자, 취미로 개발자를 위한 서비스를 개발합니다. UI/UX를 개선시키는것에 관심이 많습니다.
 
 ##  Stack : 기술 목록
 
