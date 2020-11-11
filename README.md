@@ -21,9 +21,9 @@
 
 > FrameWork / Library
 
-| App | React | native |
+| App | React | Flutter |
 | ------ | -------- | ----- |
-| <img src="https://img.icons8.com/clouds/50/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> | <img src="https://img.icons8.com/nolan/50/react-native.png"/> |
+| <img src="https://img.icons8.com/clouds/50/000000/android-os.png"/> | <img src="https://img.icons8.com/clouds/50/000000/react.png"/> | <img src="https://img.icons8.com/color/50/000000/flutter.png"/> |
 
 
 
