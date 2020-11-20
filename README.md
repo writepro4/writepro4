@@ -12,7 +12,7 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 </p>
 
 
-### My Digital Footprints 🌱
+### 나의 Digital Footprints 🌱
 
 * 개발 블로그 : [blog](https://gaebal4.tistory.com/)
 * 인스타그램 : [instar](https://www.instagram.com/coeweonho50/)
