@@ -1,8 +1,8 @@
- ### 안녕하세요 👋
+### 안녕하세요 👋
 
 Flutter로 앱개발을 하고 있습니다.
 
-## 운영중인 블로그
+### 운영중인 블로그
 
 <a href="https://gaebal4.tistory.com/">
 <img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
@@ -22,6 +22,7 @@ Flutter로 앱개발을 하고 있습니다.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=writepro4&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=writepro4)]
 
 
 
