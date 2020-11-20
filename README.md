@@ -5,9 +5,9 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 
 <br>
 <p align='center'>
-<a href="https://gaebal4.tistory.com/"><img height="" src="https://img.icons8.com/windows/35/000000/blogger.png"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:writepro4@naver.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href=""><img src="https://img.icons8.com/nolan/64/blog.png?row=true"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/nolan/64/instagram-new.png?row=true"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/nolan/64/apple-mail.png?row=true"/></a>
 </p>
 
 ### 블로그 기재 내용 
