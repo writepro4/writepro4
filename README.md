@@ -8,20 +8,15 @@ Flutter로 앱개발을 하고 있습니다.
 <img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
 </a>
 
-### 블로그 기재 내용 🌱
+### 블로그 기재 내용 
 
 배운것들에 대한 정리와 에러들을 정리해 놓고 있습니다.
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>앱 목록 📚</strong></summary>
  <ul>
-   <li> Efficient system designing </li>
+   <li> Wakatime API 를 이용한 ranking 어플 </li>
    <li> Working with Clojure </li>
-   <li> Playing around with GCP </li>
-   <li> Building <a href="https://namelss.com">Namelss</a> </li>
-   <li> Blogging at <a href="https://mytrashcode.com">MTC</a> </li>
-   <li> React Native development</li>
-   <li> Kubernetes</li>
   </ul>
 </details>
 
