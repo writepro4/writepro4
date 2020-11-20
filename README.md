@@ -5,9 +5,10 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 
 <br>
 <p align='center'>
-<a href=""><img src="https://img.icons8.com/nolan/64/blog.png?row=true"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/nolan/64/instagram-new.png?row=true"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.icons8.com/nolan/64/apple-mail.png?row=true"/></a>
+<a href=""><img src="https://img.icons8.com/nolan/40/blog.png?row=true"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/nolan/40/instagram-new.png?row=true"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/nolan/40/apple-mail.png?row=true"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/nolan/40/facebook-new.png?row=true"/></a>
 </p>
 
 ### 블로그 기재 내용 
