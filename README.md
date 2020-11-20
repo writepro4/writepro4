@@ -2,11 +2,14 @@
 
 Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토어에만 업로드 하고 있고 추후에 애플스토어에 업로드 할 예정입니다.
 
-### 운영중인 블로그
 
-<a href="https://gaebal4.tistory.com/">
-<img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
-</a>
+<p align='center'>
+<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+</p>
 
 ### 블로그 기재 내용 
 
