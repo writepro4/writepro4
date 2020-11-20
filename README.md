@@ -11,9 +11,16 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 <a href=""><img src="https://img.icons8.com/nolan/40/facebook-new.png?row=true"/></a>
 </p>
 
-### 블로그 기재 내용 
 
-배운것들에 대한 정리와 에러들을 정리해 놓고 있습니다.
+### My Digital Footprints 🌱
+
+I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though 😄) 
+I write about things I am familiar with and things that I am learning. 
+
+#### Few self-built live tools i use everyday :
+* Feedback/Chat platform : [Namelss](https://namelss.com)
+* Url-shortener : [Chootu](https://chootu.netlify.app/)
+* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
 
 <details>
  <summary><strong>앱 목록 📚</strong></summary>
