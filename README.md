@@ -5,11 +5,10 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 
 <br>
 <p align='center'>
-
-<a href="https://www.linkedin.com/in/ikshitijsingh/"><img src="https://img.icons8.com/bubbles/50/000000/naver-blog.png?row=true"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ikshitijsingh/"><img src="https://img.icons8.com/bubbles/30/000000/naver-blog.png?row=true"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href="mailto:writepro4@naver.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 <a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
 </p>
 
