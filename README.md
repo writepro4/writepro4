@@ -9,7 +9,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
 
 
-## 운영중인 기술 블로그
+## 운영중인 블로그
 
 <a href="https://gaebal4.tistory.com/">
 <img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
