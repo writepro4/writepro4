@@ -39,6 +39,8 @@ I write about things I am familiar with and things that I am learning.
 </details>
 
 ![writepro4's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=writepro4&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
 
 
