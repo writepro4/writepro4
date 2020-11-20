@@ -14,13 +14,9 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 
 ### My Digital Footprints 🌱
 
-I write regular blog posts, most of which you will find on my personal blog [MyTrashCode](https://mytrashcode.com) (Don't go on the name though 😄) 
-I write about things I am familiar with and things that I am learning. 
+* 개발 블로그 : [blog](https://gaebal4.tistory.com/)
+* 인스타그램 : [instar](https://www.instagram.com/coeweonho50/)
 
-#### Few self-built live tools i use everyday :
-* Feedback/Chat platform : [Namelss](https://namelss.com)
-* Url-shortener : [Chootu](https://chootu.netlify.app/)
-* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
 
 <details>
  <summary><strong>앱 목록 📚</strong></summary>
