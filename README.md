@@ -1,16 +1,8 @@
  
+<Table>
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="170" height="100" /> 
 
-
-## 운영중인 기술 블로그
-
-<a href="https://gaebal4.tistory.com/">
-<img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
-</a>
-
-
-
-### Hi there 👋
+### Hi there 👋</Table>
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
@@ -22,6 +14,12 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 <a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
 </p>
+
+## 운영중인 기술 블로그
+
+<a href="https://gaebal4.tistory.com/">
+<img src="https://user-images.githubusercontent.com/45548926/87373446-aaead500-c5c4-11ea-989c-c51dccf8966f.png" width="300" height="100" />
+</a>
 
 ### My Digital Footprints 🌱
 
