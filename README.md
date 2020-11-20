@@ -1,10 +1,9 @@
- 
-
-<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="170" height="100" /> 
-
-### 안녕하세요 👋
+ ### 안녕하세요 👋
 
 Flutter로 앱개발을 하고 있습니다.
+
+<img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="120" height="100" /> 
+
 
 
 ## 운영중인 블로그
