@@ -31,7 +31,13 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 ### 언어 및 도구 🐱‍💻
 
 <a href=""><img src="https://img.icons8.com/color/40/000000/flutter.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/cotton/40/000000/android-os.png"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/40/000000/firebase.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/40/000000/linux.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/></a>&nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/plasticine/40/000000/playstore.png"/></a>&nbsp;&nbsp;
+
 
 <br>
 
