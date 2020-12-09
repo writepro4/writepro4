@@ -46,7 +46,7 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=writepro4&hide=prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writepro4&layout=compact&hide_border=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=writepro4&layout=compact&hide_border=true)
+
 
 
 
