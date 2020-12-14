@@ -18,14 +18,6 @@ Flutter로 앱개발을 하고 있습니다. 현재는 구글 플레이 스토�
 * 인스타그램 : [instar](https://www.instagram.com/coeweonho50/)
 
 
-<details>
- <summary><strong>앱 개발 목록 🤓</strong></summary>
- <ul>
-   <li> Wakatime API 를 이용한 ranking 어플 </li>
-   <li> Working with Clojure </li>
-  </ul>
-</details>
-
 <br>
 
 ### 언어 및 도구 🐱‍💻
