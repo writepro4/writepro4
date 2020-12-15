@@ -18,7 +18,7 @@ Flutter로 앱개발을 하고 있습니다. 다양한 의견, 코드 지적 환
 
 ### 나의 Digital Footprints 🌱
 
-* 개발 블로그 : [blog](https://gaebal4.tistory.com/)
+* 개발 블로그 : [코딩 팁 블로그](https://gaebal4.tistory.com/)
 * 인스타그램 : [instar](https://www.instagram.com/coeweonho50/)
 
 
