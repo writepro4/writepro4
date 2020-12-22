@@ -19,6 +19,7 @@ Flutter로 앱개발을 하고 있습니다.
 ### 나의 Digital Footprints 🌱
 
 * 개발 블로그 : [코딩 팁 블로그](https://gaebal4.tistory.com/)
+* 그림 블로그 : [그림 🎨](https://boobyby.tistory.com/)
 * 인스타그램 : [instar](https://www.instagram.com/coeweonho50/)
 * 크롬 플러그인 : [ASMR 플러그인 🎼]()
 
