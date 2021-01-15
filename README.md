@@ -2,6 +2,8 @@
 
 Flutter로 앱개발을 하고 있습니다.
 
+제가 필요/유용하다고 생각하는 것을 개발하고 있습니다. 다양한 의견은 언제든 환영합니다 😘😍
+
 깃헙 레포지토리를 보실때 크롬 플러그인 <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk">Gitako </a>와
 <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk">GitHub Hovercard <a/> 를 사용하시면 더 편하게 보실 수 있습니다. 👍
   
