@@ -16,14 +16,14 @@ Flutter로 앱개발 및 제가 필요/유용하다고 생각하는 것을 개�
 </p>
 
 
-### 나의 Digital Footprints 🌱
+### 나의 Digital Footprints 
 
-* 개발 블로그 : [Coding Tips](https://gaebal4.tistory.com/)
-* 그림 블로그 : [Art ](https://boobyby.tistory.com/)
-* 인스타그램 : [Instar](https://www.instagram.com/coeweonho50/)
-* 크롬 플러그인 : [ASMR ](https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related) / [Waka NewTab ](https://chrome.google.com/webstore/detail/todolist-tab/jpkliledckcfkiiiphajjjeofagpoooj)
-* 어플 : [Flutter_CookBook]() 
-
+* 개발 블로그 : [Coding Tips 🌱](https://gaebal4.tistory.com/)
+* 그림 블로그 : [Art 🎨](https://boobyby.tistory.com/)
+* 인스타그램 : [Instar 📸](https://www.instagram.com/coeweonho50/)
+* 크롬 플러그인 : [ASMR 🎶](https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related) / [Waka NewTab  👩‍💻](https://chrome.google.com/webstore/detail/todolist-tab/jpkliledckcfkiiiphajjjeofagpoooj)
+* 어플 : [Flutter_CookBook 🍴]() 
+* 소개 웹페이지 :[Profile 🐱‍👓]()
 
 <br>
 
