@@ -17,10 +17,11 @@ Flutter 앱개발 및 제가 필요/유용하다고 생각하는 것을 개발�
 
 ### 나의 Digital Footprints 
 
+* My Profile Github io :[Profile 🐱‍👓](https://writepro4.github.io/)
 * 개발 블로그 : [Coding Tips 🌱](https://gaebal4.tistory.com/)
 * 크롬 플러그인 : [ASMR 🎶](https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related) / [Waka NewTab  👩‍💻](https://chrome.google.com/webstore/detail/todolist-tab/jpkliledckcfkiiiphajjjeofagpoooj) / 
 * 어플 : [Flutter_CookBook 🍴]()  /
-* 소개 웹페이지 :[Profile 🐱‍👓](https://writepro4.github.io/)
+
 
 <br>
 
