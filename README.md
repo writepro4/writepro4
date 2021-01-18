@@ -8,7 +8,7 @@ Flutter로 앱개발 및 제가 필요/유용하다고 생각하는 것을 개�
   
 <br>
 <p align='center'>
-<a href=""><img src="https://img.icons8.com/nolan/40/blog.png?row=true"/></a>&nbsp;&nbsp;
+<a href="https://gaebal4.tistory.com/"><img src="https://img.icons8.com/nolan/40/blog.png?row=true"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/nolan/40/instagram-new.png?row=true"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/nolan/40/apple-mail.png?row=true"/></a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/nolan/40/facebook-new.png?row=true"/></a>
