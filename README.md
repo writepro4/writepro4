@@ -20,7 +20,7 @@ Flutter 앱개발 및 제가 필요/유용하다고 생각하는 것을 개발�
 
 * 개발 블로그 : [Coding Tips 🌱](https://gaebal4.tistory.com/)
 * 크롬 플러그인 : [ASMR 🎶](https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related) / [Waka NewTab  👩‍💻](https://chrome.google.com/webstore/detail/todolist-tab/jpkliledckcfkiiiphajjjeofagpoooj) /  [Code 한글 번역 방지 🤖]() / 
-* 어플 : [Flutter_CookBook 🍴]()  /
+* 어플 : [Flutter_CookBook 🍴]()  / [Day_Routine 🗝]()  / 
 
 
 <br>
