@@ -1,6 +1,4 @@
-### 안녕하세요 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwritepro4%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+### 안녕하세요 👋 
 
 Flutter 앱개발 및 제가 필요/유용하다고 생각하는 것을 개발하고 있습니다. 다양한 의견은 언제든 환영합니다 
 
