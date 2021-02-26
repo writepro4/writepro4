@@ -20,7 +20,7 @@ Flutter 앱개발 및 제가 필요/유용하다고 생각하는 것을 개발�
 
 * 개발 블로그 : [Coding Tips 🌱](https://gaebal4.tistory.com/)
 * 크롬 플러그인 : [ASMR 🎶](https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related) / [Waka NewTab  👩‍💻](https://chrome.google.com/webstore/detail/todolist-tab/jpkliledckcfkiiiphajjjeofagpoooj) /  
-* 어플 :   [Day_Routine App 🌄](https://github.com/writepro4/app_day_routine)  / [WakaTime Ranking 🏆](https://github.com/writepro4/app_wakatime_diary) /  [Coffee Diary 🪔](https://github.com/writepro4/app_wakatime_diary) 
+* 어플 :   [Day_Routine App 🌄](https://github.com/writepro4/app_day_routine)  / [WakaTime Ranking 🏆](https://github.com/writepro4/app_wakatime_diary) /  [Coffee Diary 🪔](https://github.com/writepro4/app_coffee_diary) 
 
 
 <br>
